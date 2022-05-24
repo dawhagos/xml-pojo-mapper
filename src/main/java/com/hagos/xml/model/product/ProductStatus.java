@@ -1,6 +1,7 @@
-package com.hagos.xml.model;
+package com.hagos.xml.model.product;
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper;
+import com.hagos.xml.model.product.Product;
 import lombok.Data;
 
 import java.util.ArrayList;

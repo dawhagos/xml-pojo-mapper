@@ -1,4 +1,4 @@
-package com.hagos.xml.model;
+package com.hagos.xml.model.product;
 
 import lombok.Data;
 
