@@ -1,0 +1,54 @@
+{
+  "ReleaseSchedule": {
+    "sender": "ABC",
+    "gpid": "A10004868603948",
+    "itemLabel": "Record Label",
+    "accountChannels": [
+      {
+        "accountName": "Youtube",
+        "channelDisplayName": "DustyMcFly",
+        "visibility": "UNLISTED",
+        "videoId": null,
+        "usagePolicy": "MONETIZE",
+        "enableContentIdMatches": "BLOCK",
+        "action": "SEND FULL ASSETS",
+        "xmlType": "MUSIC VIDEO CLAIM",
+        "assetId": null,
+        "goLiveDateTime": "",
+        "scheduledBy": "Hagos, Dawit",
+        "distributor": "ADA US",
+        "assetNameSuffix": "xyz.mp4"
+      },
+      {
+        "accountName": "Youtube2",
+        "channelDisplayName": "DustyMcFly",
+        "visibility": "UNLISTED",
+        "videoId": null,
+        "usagePolicy": "MONETIZE",
+        "enableContentIdMatches": "BLOCK",
+        "action": "SEND FULL ASSETS",
+        "xmlType": "MUSIC VIDEO CLAIM",
+        "assetId": null,
+        "goLiveDateTime": "",
+        "scheduledBy": "Hagos, Dawit",
+        "distributor": "ADA US",
+        "assetNameSuffix": "xyz.mp4"
+      },
+      {
+        "accountName": "Youtube3",
+        "channelDisplayName": "DustyMcFly",
+        "visibility": "UNLISTED",
+        "videoId": null,
+        "usagePolicy": "MONETIZE",
+        "enableContentIdMatches": "BLOCK",
+        "action": "SEND FULL ASSETS",
+        "xmlType": "MUSIC VIDEO CLAIM",
+        "assetId": null,
+        "goLiveDateTime": "",
+        "scheduledBy": "Hagos, Dawit",
+        "distributor": "ADA US",
+        "assetNameSuffix": "xyz.mp4"
+      }
+    ]
+  }
+}
